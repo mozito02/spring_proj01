@@ -1,0 +1,4 @@
+Server:
+  port: 3232
+  servlet:
+    context-path: /api
